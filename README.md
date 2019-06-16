@@ -18,9 +18,13 @@
  - The OpenWRT router Version 18.06 (This is the one I testet this on. Other versions should probably work as well)
 
     ### WHY EXCEL? 
-    It provides an easy, interactive IDE. One could wrapp this into a compiled exe ... just need to create  some forms etc. to allow basic interactions (e.g. configure settings / start conversion etc.).
+    It provides an easy, interactive IDE. 
+    
+    One could wrapp this into a compiled exe ... just need to create  some forms etc. to allow basic interactions (e.g. configure settings / start conversion etc.).
  
- If I would do it ... I would definately have all settings in an external TXT file ... I work with Excel almost everyday ... so just adding another botton todo some router magic is not a big deal :)
+     If I would do it ... I would definately have all settings in an external TXT file ... 
+     
+     I work with Excel almost everyday ... so just adding another botton to do some router magic is not a big deal :)
 
 ## GET STARTED:
 
