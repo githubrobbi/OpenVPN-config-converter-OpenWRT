@@ -11,11 +11,20 @@
  
  Then it will merge the created "openvpn.conf" files with your "/etc/config/openvpn" file
  
+### Why NOT use the NEW ,ovpn file upload feature within OpenWRT 19.07?
+    
+       This can process and upload MULTIPLE files at once.
+    
+       Easy to cut out functionality to REMOVE those configurations (see in VBA code)
+    
+       I had only 18.06 to work with a couple days ago ... thus whipped up this macro 
+       (NO Upload feature available in 18.06)
+
  ## Features:
  
  - Reads .ovpn files / extracts information / creates corresponding OpenWRT config file and insert it into /etc/config
  - Works with a directory FULL of separate .ovpn files
- - Creates individual files with KEY / CERT / AUTH info from ,ovpn files and stores the in CRYPTO dir
+ - Creates individual files with KEY / CERT / AUTH info from ,ovpn files and stores them in CRYPTO dir
  - Tested with OpenWRT 18.06 (KongPRO) / PuTTY 0.70 / Excel 2016 / 
  - "Plays" well on your systems, does not leave any crumbs behind.
 
