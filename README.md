@@ -27,12 +27,23 @@
      I work with Excel almost everyday ... so just adding another botton to do some router magic is not a big deal :)
 
 ## GET STARTED:
-
-     Have SAMBA access to the USB stick @ the router ... on WINDOWS mine is mapped as a "Z"-drive
     
-     CONFIRM / ADJUST the settings in this VBA module to YOUR environment
+    Create / Open an EMPTY Excel Workbook
     
-     Execute the "Convert_OpenVPN_Config_Files" Macro
+    Create a SIMPLE Macro within Excel ... just start recording a macro ...change a cell ... stop recording.
+    Make sure you have the macro STORED with the current / new workbook.
+    
+    Once that is done, Exel will have created a MODULE with a simple macro.
+    
+    Press ALT-11 to invoke the IDE 
+    
+    look on your LEFT side, select the module1 wich belongs to your just created workbook.
+    
+    cut and paste the macro code from here into the module1 in excel.
+    
+    CONFIRM / ADJUST the settings in this VBA module to YOUR environment
+    
+    Execute the "Convert_OpenVPN_Config_Files" Macro
 
 ### License
 ----
