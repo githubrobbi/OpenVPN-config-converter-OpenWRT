@@ -13,7 +13,7 @@
 
  ## WHAT YOU NEED:
 
- - EXCEL obviously :)
+ - EXCEL
  - current copy of PuTTY & TOOLS (plink / psftp): http://www.putty.org/ (Tested with Version: 0.70)
  - The OpenWRT router Version 18.06 (This is the one I testet this on. Other versions should probably work as well)
 
