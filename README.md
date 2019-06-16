@@ -1,4 +1,4 @@
-#  OpenVPN configuration file CONVERTER for OpenwWRT
+#  OpenVPN configuration file CONVERTER for OpenWRT
 
  This will CONVERT your ".OVPN" configuration files from "<vpn config file>.ovpn" to something, which
  OpenWRT can work with. You can select (within this code) to create single CONF files for each of the OVPN files. (deafult is ONE BIG config file)
