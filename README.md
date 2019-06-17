@@ -62,6 +62,10 @@
     
     Execute the "Convert_OpenVPN_Config_Files" Macro
 
+# The FILES:
+- "Module1.bas" the EXPORTED VBA code file ... you might just IMPORT it into Excel
+- "OpenVPN Public.xls" is a Excel workbook in 97-2003 file format. Includes the VBA code ... access it with ALT-F11.
+
 ### License
 ----
 
